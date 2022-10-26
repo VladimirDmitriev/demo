@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="046c33c5-aba3-4796-9938-759498f492ad">
-  <name>Конфигурация</name>
+  <name>Demo_SSL</name>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="f9189251-dd96-43e3-a989-22c95d01f381"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="5894a96d-02f7-4a5d-b0ef-48d4e2d889c0"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="8a4c1f7c-93ef-43eb-8f56-2237b407de80"/>
